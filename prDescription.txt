@@ -1,0 +1,17 @@
+PR Title: FEAT/FEAPP-420: WhatsApp Notification Option for Product Updates
+
+PR Description:
+
+WHAT:
+    This PR provides a feature to customers to receive notifications via WhatsApp in addition to their email notifications
+    for product updates. Users can now add their WhatsApp number as a notification method. When enabled, notifications
+    about product updates will be sent to both the given email and WhatsApp number.
+
+WHY:
+    This feature is being added in response to customer requests for more flexibility in how they receive notifications about product
+    updates. By allowing notifications via WhatsApp, we aim to enhance user engagement and meet the preferences of our customers.
+
+
+PR Reviewers:
+1. Shivanarayana Dhulipala
+2. Arunav Addy
