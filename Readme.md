@@ -18,7 +18,7 @@ Before Cloning this project make sure you have the following installed.
 
 To set up and run the Country Capital API locally, follow these steps:
 
-1. **Clone the Repository
+1. **Clone the Repository**
     ```bash
     git clone https://example.com/country-capital-api.git
     ```
